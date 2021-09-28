@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T02:20:49.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="H4bTFuJbNZdi4NpstQJv" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T02:22:58.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="l0FifFFRDu0T7zEefofS" version="15.3.4" type="github">
   <diagram id="TWiHrpcFwOdGz3wL10nc" name="Page-1">
     <mxGraphModel dx="2066" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,8 +46,20 @@
         <mxCell id="Qmrg40c5jwhxQXg3GHlc-6" value="开发" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Qmrg40c5jwhxQXg3GHlc-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Qmrg40c5jwhxQXg3GHlc-7" target="Qmrg40c5jwhxQXg3GHlc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qmrg40c5jwhxQXg3GHlc-7" value="测试" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="760" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qmrg40c5jwhxQXg3GHlc-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Qmrg40c5jwhxQXg3GHlc-15" target="Qmrg40c5jwhxQXg3GHlc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qmrg40c5jwhxQXg3GHlc-15" value="自动化测试输出" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="880" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qmrg40c5jwhxQXg3GHlc-17" value="通用业务必须" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
